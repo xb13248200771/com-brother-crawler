@@ -1,0 +1,15 @@
+com\tongji\dao\RequestTaskDao.class
+com\tongji\downloaders\DownloadRetryInterceptor.class
+com\tongji\dao\ResponseTaskDao.class
+com\tongji\enums\RequestMethod.class
+com\tongji\utils\JsonUtils.class
+com\tongji\bean\Request.class
+com\tongji\bean\Response.class
+com\tongji\utils\DateTimeUtils.class
+com\tongji\config\HttpClientConfig.class
+com\tongji\dao\RequestTaskDaoSqlLiteImp.class
+com\tongji\dao\ResponseTaskDaoSqlLiteImp.class
+com\tongji\downloaders\SimpleDownloader.class
+com\tongji\enums\RequestTaskResult.class
+com\tongji\thread\DownloadThread.class
+com\tongji\config\RequestConfig.class

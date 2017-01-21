@@ -1,0 +1,15 @@
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\dao\ResponseTaskDao.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\utils\DateTimeUtils.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\config\HttpClientConfig.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\enums\RequestMethod.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\thread\DownloadThread.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\downloaders\SimpleDownloader.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\downloaders\DownloadRetryInterceptor.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\bean\Request.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\dao\RequestTaskDaoSqlLiteImp.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\enums\RequestTaskResult.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\config\RequestConfig.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\dao\RequestTaskDao.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\utils\JsonUtils.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\bean\Response.java
+D:\git\com-brother-crawler\com-brother-api\src\main\java\com\tongji\dao\ResponseTaskDaoSqlLiteImp.java
